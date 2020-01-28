@@ -1,8 +1,8 @@
 {
   "root": true,
   "api": {
-    "projectId": "7j9cnsfo",
-    "dataset": "production"
+    "projectId": "g3tvfak1",
+    "dataset": "development"
   },
   "project": {
     "name": "Gatsby Demo",
@@ -26,4 +26,3 @@
     }
   ]
 }
-
