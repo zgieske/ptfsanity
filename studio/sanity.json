@@ -2,10 +2,10 @@
   "root": true,
   "api": {
     "projectId": "g3tvfak1",
-    "dataset": "development"
+    "dataset": "production"
   },
   "project": {
-    "name": "Gatsby Demo",
+    "name": "Philly Tap Finder",
     "basePath": "/"
   },
   "plugins": [
